@@ -1,5 +1,5 @@
 # Projeto de Segmentação e Classificação de Vinhos
-Este é um projeto que visa segmentar diferentes tipos de vinhos utilizando o algoritmo de clusterização K-Means e, em seguida, classificar os clusters resultantes usando um classificador Random Forest.
+Este projeto mergulha na segmentação e classificação de vinhos usando K-Means e Random Forest. Explore a diversidade de vinhos enquanto revelamos padrões e categorias únicas. Venha descobrir os segredos por trás de cada garrafa! 🍷✨
 
 ## Objetivo
 O objetivo deste projeto é explorar técnicas de aprendizado de máquina para segmentar e classificar vinhos com base em suas características. A segmentação ajuda a identificar padrões intrínsecos nos dados, enquanto a classificação permite prever a categoria de cada vinho com base nessas características.
